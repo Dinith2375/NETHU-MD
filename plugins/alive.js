@@ -13,20 +13,20 @@ try{
 
 let des = `👋 𝙷𝚎𝚕𝚕𝚘 ${pushname} 𝙸'𝚖 𝚊𝚕𝚒𝚟𝚎 𝚗𝚘𝚠
 
-*Im NETHU-MD Whatsapp Bot Create By Nethu Max 🍂✨*
+*Im NETHU-MD Whatsapp Bot Create By DINIYA Max 🍂✨*
 
 | *Version*: 1.0.0
 | *Memory*: 38.09MB/7930MB
 | *Runtime*: 1 minute,25 seconds
-| *Owner*: Nethmika
+| *Owner*: Dinith
 
 I am nethu md whatsapp bot. How can I help you.
 To get the menu, type as menu. If you need to know something about the bot,
 type as owner and direct the question to me. Good day.
 
-*ꜱʟ°᭄🇱🇰™️𝙳𝙰𝚁𝙺 𝙲𝚈𝙱𝙴𝚁*
+*DINIYA-MD*
 
- ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx`
+ POWERD BY DINIYA-MD`
 return await conn.sendMessage(from,{image: {url: config.ALIVE_IMG},caption: des},{quoted: mek})
 }catch(e){
 console.log(e)
